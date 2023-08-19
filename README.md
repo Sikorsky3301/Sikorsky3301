@@ -11,3 +11,5 @@ Let's connect on social media! Feel free to follow me on Instagram and Twitter t
 
 Instagram: @maghack_rishi
 Twitter: @Infosec_Guy01
+
+"Stay curious, keep learning, and never stop exploring."

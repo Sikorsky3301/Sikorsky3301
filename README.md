@@ -9,7 +9,7 @@ I am a tech enthusiast with a strong passion for coding, cybersecurity, and ever
 Social Media
 Let's connect on social media! Feel free to follow me on Instagram and Twitter to stay updated with my latest projects, thoughts, and insights.
 
-Instagram: @maghack_rishi
+Instagram: @rishiraj_0fficial
 Twitter: @Infosec_Guy01
 
 "Stay curious, keep learning, and never stop exploring."

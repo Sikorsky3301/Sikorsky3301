@@ -47,6 +47,6 @@ _"Stay curious, keep learning, and never stop exploring."_
 | XRP Ledger (XRP)  |                                                                     |
 | BNB               |                                                              |
 | Monero (XMR)      |             |
-| Solana (SOL)      |                                                                 |
+| Solana (SOL)      |         7ELPkn5ajfm4YjSP5AiyEoxDQ1gpEMUjf524rDHBaC1Z                                                        |
 
 </details>

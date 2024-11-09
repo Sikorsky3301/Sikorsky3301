@@ -16,7 +16,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%24+Developer+focused+on+innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&vCenter=true&width=435&lines=%24+Developer+focused+on+innovation)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Rishi Raj</h1>
 <h3 align="center">A passionate SoftwareDeveloper developer from India</h3>

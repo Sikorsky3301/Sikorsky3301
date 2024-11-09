@@ -43,7 +43,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 | Currency          | Wallet Address                                                                                               |
 |-------------------|--------------------------------------------------------------------------------------------------------------|
 | Bitcoin (BTC)     |             bc1q2e89m5e9rlsjppjlwq594eunl00krprjvrfa6l                                                  |
-| Ethereum (ETH)    |                                                              |
+| Ethereum (ETH)    |           0x1c61AdDA483cE8441cdB1D6de87DD21bbf3f6e63                                                   |
 | XRP Ledger (XRP)  |                                                                     |
 | BNB               |                                                              |
 | Monero (XMR)      |             |

@@ -42,11 +42,11 @@ _"Stay curious, keep learning, and never stop exploring."_
 
 | Currency          | Wallet Address                                                                                               |
 |-------------------|--------------------------------------------------------------------------------------------------------------|
-| Bitcoin (BTC)     | bc1qqzjudcujy60zgttngl37cascmqeysm94u86d5n                                                                   |
-| Ethereum (ETH)    | 0x43ea2c6c6CeB3f5238849d914a3D22198267fEf8                                                                   |
-| XRP Ledger (XRP)  | rn1FAtEPMKqvqFw7bZPaUgYvqwfYorcS8b                                                                           |
-| BNB               | bnb1t297a0gvwxkf6uugwkrde6gat8j7k4uw03glmj                                                                   |
-| Monero (XMR)      | 47G9qMBHk8v1HhYJxkHqJtUDt21PqmJEqBa63B2mUsagesMdyrtL11ug31oCWa7c3nKsbedYiu38D391xZbQiFuWAQvxe4C              |
-| Solana (SOL)      | FcrRBcvWsqdVZpS9ZZ6Dt476QA1L95cdh7GqgUGX5RpH                                                                 |
+| Bitcoin (BTC)     |                                                               |
+| Ethereum (ETH)    |                                                              |
+| XRP Ledger (XRP)  |                                                                     |
+| BNB               |                                                              |
+| Monero (XMR)      |             |
+| Solana (SOL)      |                                                                 |
 
 </details>

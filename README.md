@@ -42,7 +42,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 
 | Currency          | Wallet Address                                                                                               |
 |-------------------|--------------------------------------------------------------------------------------------------------------|
-| Bitcoin (BTC)     |                                                               |
+| Bitcoin (BTC)     |             bc1q2e89m5e9rlsjppjlwq594eunl00krprjvrfa6l                                                  |
 | Ethereum (ETH)    |                                                              |
 | XRP Ledger (XRP)  |                                                                     |
 | BNB               |                                                              |

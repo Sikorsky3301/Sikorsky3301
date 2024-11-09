@@ -26,14 +26,14 @@ _"Stay curious, keep learning, and never stop exploring."_
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishi-raj-366739233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishi-raj-366739233/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/maghackgaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/maghackgaming" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hulk9387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hulk9387" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/sikorsky3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sikorsky3301/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sikorsky3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahudkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sikorsky3301/" height="30" width="40" /></a>
 </p>
 
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,postman,docker,kubernetes,python,git,react,flutter,androidstudio,c,cpp,javascript,typescript,nodejs,go,rust,java,bash,cs,git,kali,mongodb,Sql&perline=12)](https://skillicons.dev)
 
 ## 0x02 > Support my Work
-[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](paypal.me/MAGhackx)
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/MAGhackx)
 [![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$G4LXY)
  [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/angelinatsuboi)
 <details>

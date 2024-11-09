@@ -32,3 +32,23 @@ _"Stay curious, keep learning, and never stop exploring."_
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,postman,docker,kubernetes,python,git,react,flutter,androidstudio,c,cpp,javascript,typescript,nodejs,go,rust,java,bash,cs,git,kali,mongodb,Sql&perline=12)](https://skillicons.dev)
 
+## 0x02 > Support my Work
+[![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypal.me/MAGhackx)
+[![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$G4LXY)
+ [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/angelinatsuboi)
+<details>
+
+  <summary>↕️ <bold>Cryptocurrency List</bold></summary>
+ 
+ <br />
+
+| Currency          | Wallet Address                                                                                               |
+|-------------------|--------------------------------------------------------------------------------------------------------------|
+| Bitcoin (BTC)     | bc1qqzjudcujy60zgttngl37cascmqeysm94u86d5n                                                                   |
+| Ethereum (ETH)    | 0x43ea2c6c6CeB3f5238849d914a3D22198267fEf8                                                                   |
+| XRP Ledger (XRP)  | rn1FAtEPMKqvqFw7bZPaUgYvqwfYorcS8b                                                                           |
+| BNB               | bnb1t297a0gvwxkf6uugwkrde6gat8j7k4uw03glmj                                                                   |
+| Monero (XMR)      | 47G9qMBHk8v1HhYJxkHqJtUDt21PqmJEqBa63B2mUsagesMdyrtL11ug31oCWa7c3nKsbedYiu38D391xZbQiFuWAQvxe4C              |
+| Solana (SOL)      | FcrRBcvWsqdVZpS9ZZ6Dt476QA1L95cdh7GqgUGX5RpH                                                                 |
+
+</details>

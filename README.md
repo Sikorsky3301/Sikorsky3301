@@ -33,8 +33,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 
 ## 0x02 > Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/MAGhackx)
-[![Cash App](https://img.shields.io/badge/CashApp-01D21C?style=for-the-badge&logo=cashapp&logoColor=white)](https://cash.app/$G4LXY)
- [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://www.buymeacoffee.com/angelinatsuboi)
+ [![Buy Me A Coffee](https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge)](https://buymeacoffee.com/rishiraj_)
 <details>
 
   <summary>↕️ <bold>Cryptocurrency List</bold></summary>

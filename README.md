@@ -27,5 +27,5 @@ Twitter: @Infosec_Guy01
 </p>
 
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,postman,docker,kubernetes,python,git,react,flutter,c,cpp,javascript,typescript,go,rust,java,bash,cs,git,kali&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,postman,docker,kubernetes,python,git,react,flutter,androidstudio,c,cpp,javascript,typescript,nodejs,go,rust,java,bash,cs,git,kali&perline=12)](https://skillicons.dev)
 

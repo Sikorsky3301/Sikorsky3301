@@ -45,7 +45,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 | Bitcoin (BTC)     |             bc1q2e89m5e9rlsjppjlwq594eunl00krprjvrfa6l                                                  |
 | Ethereum (ETH)    |           0x1c61AdDA483cE8441cdB1D6de87DD21bbf3f6e63                                                   |
 | XRP Ledger (XRP)  |                                                                     |
-| BNB               |                                                              |
+| BNB(BEP20)               |          0xc77c5b3df5654848ee444187f4bc75bde03cf4c7                                                    |
 | Monero (XMR)      |             |
 | Solana (SOL)      |         7ELPkn5ajfm4YjSP5AiyEoxDQ1gpEMUjf524rDHBaC1Z                                                        |
 

@@ -18,9 +18,6 @@ _"Stay curious, keep learning, and never stop exploring."_
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&vCenter=true&width=435&lines=%24+Developer+focused+on+innovation)](https://git.io/typing-svg)
 
-<h1 align="center">Hi 👋, I'm Rishi Raj</h1>
-<h3 align="center">A passionate SoftwareDeveloper developer from India</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rishi-raj-366739233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rishi-raj-366739233/" height="30" width="40" /></a>

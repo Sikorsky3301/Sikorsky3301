@@ -16,7 +16,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&vCenter=true&width=435&lines=%24+Developer+focused+on+innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&vCenter=true&width=435&lines=%24+$)](https://git.io/typing-svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

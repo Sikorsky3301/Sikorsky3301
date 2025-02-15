@@ -23,6 +23,9 @@ _"Stay curious, keep learning, and never stop exploring."_
 <a href="https://leetcode.com/u/sikorsky3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sikorsky3301/" height="30" width="40" /></a>
 </p>
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sikorsky3301)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikorsky3301&theme=tokyonight&layout=compact&hide_border=true&border_radius=16" />
 </a>

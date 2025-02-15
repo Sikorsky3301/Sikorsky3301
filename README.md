@@ -24,7 +24,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 </p>
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sikorsky3301&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sikorsky3301&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

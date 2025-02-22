@@ -23,9 +23,9 @@ _"Stay curious, keep learning, and never stop exploring."_
 <a href="https://leetcode.com/u/sikorsky3301/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sikorsky3301/" height="30" width="40" /></a>
 </p>
 -->
-
+<!-- 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sikorsky3301&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset

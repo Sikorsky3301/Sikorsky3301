@@ -27,11 +27,14 @@ _"Stay curious, keep learning, and never stop exploring."_
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sikorsky3301&show_icons=true&theme=highcontrast#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+<details>
   <summary><b>⚙️ GitHub Analytics</b></summary>
-<a href="https://github.com/sikorsky3301">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="sikorsky3301 github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="sikorksy3301 github stats" />
-<br>
+  <a href="https://github.com/Sikorsky3301">
+    <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="sikorsky3301 GitHub stats" />
+    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="sikorsky3301 GitHub stats" />
+  </a>
+</details>
+
  
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,postman,docker,kubernetes,python,git,react,flutter,androidstudio,c,cpp,javascript,typescript,nodejs,go,rust,java,bash,cs,git,kali,mongodb,mysql&perline=12)](https://skillicons.dev)

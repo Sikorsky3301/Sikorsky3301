@@ -29,7 +29,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 
   <summary><b>⚙️ GitHub Analytics</b></summary>
   <a href="https://github.com/Sikorsky3301">
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sikorsky3301&theme=dark" alt="sikorsky3301 GitHub stats" />
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sikorsky3301&theme=tokyonight" alt="sikorsky3301 GitHub stats" />
   </a>
 
  

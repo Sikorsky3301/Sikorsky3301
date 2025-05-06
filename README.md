@@ -34,7 +34,7 @@ _"Stay curious, keep learning, and never stop exploring."_
 
  
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,postman,docker,kubernetes,python,git,react,flutter,androidstudio,cpp,javascript,typescript,nodejs,go,picoctf,java,bash,cs,git,kali,mongodb,mysql&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,postman,docker,kubernetes,python,git,react,flutter,androidstudio,cpp,javascript,typescript,nodejs,go,fastapi,java,bash,cs,git,kali,mongodb,mysql&perline=12)](https://skillicons.dev)
 
 ## 0x01 > Support my Work
 [![Paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/MAGhackx)

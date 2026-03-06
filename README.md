@@ -31,7 +31,6 @@ _"Stay curious, keep learning, and never stop exploring."_
   <a href="https://github.com/Sikorsky3301">
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sikorsky3301&theme=2077" alt="sikorsky3301 GitHub stats" />
   </a>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
  
 ## 0x00 <span style="color: blue !important;">&gt;</span> Skillset
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,flask,docker,kubernetes,python,git,react,flutter,tensorflow,cpp,javascript,typescript,nodejs,go,dart,fastapi,java,bash,github,linux,pytorch,opencv,git,kali,mongodb,mysql&perline=14)](https://skillicons.dev)
